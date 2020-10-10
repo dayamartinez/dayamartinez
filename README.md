@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dayamar</h1>
 
-- 🌱  Passionate Full Stack Web Developer
+- 🌱  I'm passionate Full Stack Web Developer
 - 🔭  I'm constantly learning and creating my own personal projects .
 - ⚡  I love crossfit, movies and hamburguers.
 - 📫  How to reach me: **Dayamar4@gmail.com** or use the badges  
