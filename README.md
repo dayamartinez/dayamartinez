@@ -1,3 +1,4 @@
+<img lign="center" src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009601/87757497-chica-de-dibujos-animados-con-la-ilustraci%C3%B3n-de-vector-de-trabajo-de-programaci%C3%B3n-port%C3%A1til.jpg" width="100" height="70" />
 <h1 align="center">Hi 👋, I'm Dayamar</h1>
 
 - 🌱  I'm a passionate Full-Stack Web Developer
