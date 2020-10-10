@@ -1,9 +1,7 @@
-<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQW_6zPDoeUW8L3okSplobtvfF0EkeNGDjtrg&usqp=CAU"/>
 
 
+<p  align="center"><img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009847/87760314-chica-de-dibujos-animados-con-la-ilustraci%C3%B3n-de-vector-de-trabajo-de-programaci%C3%B3n-port%C3%A1til.jpg" width="190" height="220" /></p>
 <h1 align="center">Hi 👋, I'm Dayamar</h1>
-<p  align="center"><img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009645/87758206-chica-de-dibujos-animados-con-la-programaci%C3%B3n-de-trabajo-de-trabajo-ilustraci%C3%B3n-vectorial.jpg" width="190" height="220" /></p>
-
 - 🌱  I'm a passionate Full-Stack Web Developer
 - 🔭  I'm constantly learning and creating my own personal projects .
 - ⚡  I love crossfit, movies and hamburguers.
