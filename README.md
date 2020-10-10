@@ -1,8 +1,8 @@
-<img width="100%" height="100" src="https://i.pinimg.com/originals/3b/3b/d2/3b3bd234a31c34165453a78a97befbb4.png"/>
+<img width="100%" src="https://i.pinimg.com/originals/0e/7b/48/0e7b4811f401041042d3f11ca5bce62c.jpg"/>
 
 
 <h1 align="center">Hi 👋, I'm Dayamar</h1>
-<p  align="center"><img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009645/87758206-chica-de-dibujos-animados-con-la-programaci%C3%B3n-de-trabajo-de-trabajo-ilustraci%C3%B3n-vectorial.jpg" width="170" height="220" /></p>
+<p  align="center"><img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009645/87758206-chica-de-dibujos-animados-con-la-programaci%C3%B3n-de-trabajo-de-trabajo-ilustraci%C3%B3n-vectorial.jpg" width="190" height="220" /></p>
 
 - 🌱  I'm a passionate Full-Stack Web Developer
 - 🔭  I'm constantly learning and creating my own personal projects .
