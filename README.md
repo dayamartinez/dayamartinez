@@ -6,7 +6,7 @@
 - 📫  How to reach me: **Dayamar4@gmail.com** or use the badges  
 
 <p align="center">
-<h3 align="center">Connect with me:</h3>
+<h3 >Connect with me:</h3>
 <a href="https://linkedin.com/in/dayamartinez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dayamartinez" height="30" width="40" /></a>
 <a href="https://instagram.com/dayamartinz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dayamartinz" height="30" width="40" /></a>
 </p>
