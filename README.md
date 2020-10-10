@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Full Stack Web Developer.</h3>
 
 - 📫 How to reach me **Dayamar4@gmail.com**
+- 📫 I'm constantly learning and creating my own personal projects.
+- 📫 Enjoy attending tech related events.
+- 📫 Hobbies: crossfit and movies.
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
