@@ -3,9 +3,9 @@
    <img src="https://lo2y.com/wp-content/uploads/2016/02/hello-world.png"  height="220" /> 
    <img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009645/87758206-chica-de-dibujos-animados-con-la-programaci%C3%B3n-de-trabajo-de-trabajo-ilustraci%C3%B3n-vectorial.jpg" width="200" height="210" /> 
 </p>
-<h3> I'm Dayamar👋 </h3>
+ <h3>   I'm Dayamar 👋 </h3>
 
-- 🌱  I'm a passionate Full-Stack Web Developer
+- 🌱  I'm a passionate Web Developer
 - 🔭  I'm constantly learning and creating my own personal projects .
 - ⚡  I love crossfit, movies and hamburguers.
 - 📫  How to reach me: **Dayamar4@gmail.com** or use the badges  
