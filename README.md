@@ -1,5 +1,5 @@
 
-<p  align="right"> <img src="https://lh3.googleusercontent.com/proxy/9uxdwwg3SXvxPXJh-uSP6S-73hHICj7PuP0DjxoK_s2Ik9oANz-pVY0omzcXHl27fdRVD3vh2lcuEo0m-KWTaFluTkpsjEM3LdlK4zlY6CY8JTmeS_8UyJX8VA" />
+<p  align="center"> <img src="https://lo2y.com/wp-content/uploads/2016/02/hello-world.png" />
 <img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009645/87758206-chica-de-dibujos-animados-con-la-programaci%C3%B3n-de-trabajo-de-trabajo-ilustraci%C3%B3n-vectorial.jpg" width="200" height="220" /> </p>
 <h1 align="center">Hi 👋, I'm Dayamar</h1>
 
