@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.pinimg.com/originals/0e/7b/48/0e7b4811f401041042d3f11ca5bce62c.jpg"/>
+<img width="100%" src="https://s18955.pcdn.co/wp-content/uploads/2018/12/Squarespace-min.png"/>
 
 
 <h1 align="center">Hi 👋, I'm Dayamar</h1>
