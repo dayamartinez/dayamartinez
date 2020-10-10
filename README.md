@@ -1,5 +1,5 @@
-<p  align="center"><img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009601/87757497-chica-de-dibujos-animados-con-la-ilustraci%C3%B3n-de-vector-de-trabajo-de-programaci%C3%B3n-port%C3%A1til.jpg" width="150" height="100" /></p>
 <h1 align="center">Hi 👋, I'm Dayamar</h1>
+<p  align="center"><img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009601/87757497-chica-de-dibujos-animados-con-la-ilustraci%C3%B3n-de-vector-de-trabajo-de-programaci%C3%B3n-port%C3%A1til.jpg" width="170" height="130" /></p>
 
 - 🌱  I'm a passionate Full-Stack Web Developer
 - 🔭  I'm constantly learning and creating my own personal projects .
