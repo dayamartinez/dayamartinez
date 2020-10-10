@@ -1,4 +1,4 @@
-<img width="100%" src="https://s18955.pcdn.co/wp-content/uploads/2018/12/Squarespace-min.png"/>
+<img width="100%" src="https://pngimage.net/wp-content/uploads/2018/06/sun-and-moon-png-tumblr-6.png"/>
 
 
 <h1 align="center">Hi 👋, I'm Dayamar</h1>
