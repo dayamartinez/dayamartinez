@@ -1,7 +1,7 @@
 
 <p align="center">
    <img src="https://lo2y.com/wp-content/uploads/2016/02/hello-world.png"  height="220" /> 
-   <img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009847/87760314-chica-de-dibujos-animados-con-la-ilustraci%C3%B3n-de-vector-de-trabajo-de-programaci%C3%B3n-port%C3%A1til.jpg" width="200" height="220" /> 
+   <img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009645/87758206-chica-de-dibujos-animados-con-la-programaci%C3%B3n-de-trabajo-de-trabajo-ilustraci%C3%B3n-vectorial.jpg" width="200" height="210" /> 
 </p>
 <h1 align="center">Hi 👋, I'm Dayamar</h1>
 
