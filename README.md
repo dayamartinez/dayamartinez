@@ -12,8 +12,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/dayamartinez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dayamartinez" height="30" width="40" /></a>
-<a href="https://instagram.com/dayamartinz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dayamartinz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dayamartinez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dayamartinez" height="30" width="40" /></a>
+<a href="https://instagram.com/dayamartinz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dayamartinz" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -35,7 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p  align="center"><img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009847/87760314-chica-de-dibujos-animados-con-la-ilustraci%C3%B3n-de-vector-de-trabajo-de-programaci%C3%B3n-port%C3%A1til.jpg" width="200" height="220" /> <img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009645/87758206-chica-de-dibujos-animados-con-la-programaci%C3%B3n-de-trabajo-de-trabajo-ilustraci%C3%B3n-vectorial.jpg" width="200" height="220" /> <img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009601/87757497-chica-de-dibujos-animados-con-la-ilustraci%C3%B3n-de-vector-de-trabajo-de-programaci%C3%B3n-port%C3%A1til.jpg" width="200" height="220" /></p>
-<p align="center"><img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009645/87758206-chica-de-dibujos-animados-con-la-programaci%C3%B3n-de-trabajo-de-trabajo-ilustraci%C3%B3n-vectorial.jpg" width="200" height="220" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hello_world_c.svg/1280px-Hello_world_c.svg.png" width="800"/> </p>
 -->
