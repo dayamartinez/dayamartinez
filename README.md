@@ -1,4 +1,4 @@
-<img width="100%" src="https://pngimage.net/wp-content/uploads/2018/06/sun-and-moon-png-tumblr-6.png"/>
+<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQW_6zPDoeUW8L3okSplobtvfF0EkeNGDjtrg&usqp=CAU"/>
 
 
 <h1 align="center">Hi 👋, I'm Dayamar</h1>
