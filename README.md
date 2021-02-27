@@ -1,7 +1,7 @@
 
 <p align="center">
    <img src="https://lo2y.com/wp-content/uploads/2016/02/hello-world.png"  height="220" /> 
-   <img src="https://previews.123rf.com/images/yupiramos/yupiramos1710/yupiramos171009645/87758206-chica-de-dibujos-animados-con-la-programaci%C3%B3n-de-trabajo-de-trabajo-ilustraci%C3%B3n-vectorial.jpg" width="200" height="210" /> 
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvinculotic.com%2Feducacion%2Fbuenos-habitos-estudiantes-en-linea%2F&psig=AOvVaw0CND_uvfzPjvZdFmNpC0EF&ust=1614547708495000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCcpIyBi-8CFQAAAAAdAAAAABAa" width="200" height="210" /> 
 </p>
  <h3>  👋 I'm Dayamar! </h3>
 
