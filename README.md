@@ -1,11 +1,11 @@
 
 <p align="center">
    <img src="https://cdn.pixabay.com/photo/2017/08/18/10/52/women-2654514_960_720.png" width="200" height="210" /> 
-   <img src="https://lo2y.com/wp-content/uploads/2016/02/hello-world.png"  height="220" /> 
-   
+   <img src="https://lo2y.com/wp-content/uploads/2016/02/hello-world.png"  height="220" />   
 </p>
- <h2>  👋 I'm Dayamar! </h2>
-  <h5>A passionate Fullstack developer </h5>
+
+ <h2>👋 I'm Dayamar! </h2>
+  <h5> A passionate Fullstack developer </h5>
   
 - 🌱  I'm constantly learning **React Native, AWS** 
 - ⚡  I love crossfit, movies and hamburguers. 
