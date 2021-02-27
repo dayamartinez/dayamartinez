@@ -5,7 +5,8 @@
    
 </p>
  <h3>  👋 I'm Dayamar! </h3>
-  <h6> I'm a passionate Developer</h6>
+  <h5> I'm a passionate Developer</h5>
+  
 - 🌱   I'm constantly learning **React Native, AWS** 
 - ⚡  I love crossfit, movies and hamburguers. 
 - 👨‍💻 All of my projects are available at [https://dayamartinez-developer.web.app/](https://dayamartinez-developer.web.app/)
