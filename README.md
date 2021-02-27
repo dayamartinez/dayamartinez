@@ -1,7 +1,7 @@
 
 <p align="center">
    <img src="https://lo2y.com/wp-content/uploads/2016/02/hello-world.png"  height="220" /> 
-   <img src="https://img2.freepng.es/20180311/hkq/kisspng-laptop-beach-pixabay-pixel-illustration-the-person-who-plays-the-computer-5aa5691567c088.896275861520789781425.jpg" width="200" height="210" /> 
+   <img src="https://cdn.pixabay.com/photo/2017/08/18/10/52/women-2654514_960_720.png" width="200" height="210" /> 
 </p>
  <h3>  👋 I'm Dayamar! </h3>
 
