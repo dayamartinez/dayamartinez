@@ -5,7 +5,7 @@
    
 </p>
  <h3>  👋 I'm Dayamar! </h3>
-  <h5> I'm a passionate Developer</h5>
+  <h5>A passionate Fullstack developer </h5>
   
 - 🌱   I'm constantly learning **React Native, AWS** 
 - ⚡  I love crossfit, movies and hamburguers. 
