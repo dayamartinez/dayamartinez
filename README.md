@@ -4,10 +4,10 @@
    <img src="https://lo2y.com/wp-content/uploads/2016/02/hello-world.png"  height="220" /> 
    
 </p>
- <h3>  👋 I'm Dayamar! </h3>
+ <h2>  👋 I'm Dayamar! </h2>
   <h5>A passionate Fullstack developer </h5>
   
-- 🌱   I'm constantly learning **React Native, AWS** 
+- 🌱  I'm constantly learning **React Native, AWS** 
 - ⚡  I love crossfit, movies and hamburguers. 
 - 👨‍💻 All of my projects are available at [https://dayamartinez-developer.web.app/](https://dayamartinez-developer.web.app/)
 - 📫  How to reach me: **Dayamar4@gmail.com** or use the badges 
